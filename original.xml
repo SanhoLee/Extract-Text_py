@@ -2,10 +2,32 @@
     aaavbbcsdfsf
     coordinates
 </solver>
-<coordinates>
-    x1=12
-    x1=10
-    x1=1011
-    hello
-    world
-</coordinates>
+<Materials>
+    young's modulus = "210E+3"
+    possion's ratio = "0.3"
+</Materials>
+<temp1>
+        1
+        2
+        3
+        4
+        5
+        aaaaa
+        bbb
+        dddf
+        hhh
+        qpe
+</temp1>
+<Functions>
+        x1=0.0 y=289.0
+        x1=0.2 y=289.0
+        x1=0.3 y=289.0
+        x1=0.5 y=289.0
+        x1=0.6 y=289.0
+        x1=0.8 y=289.0
+        x1=0.86 y=289.0
+        x1=0.89 y=289.0
+        x1=0.90 y=289.0
+        x1=0.91 y=289.0
+        x1=0.93 y=289.0
+</Functions>

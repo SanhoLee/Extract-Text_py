@@ -1,0 +1,13 @@
+[
+  {
+    "ORIGINAL_FILE": "original.xml",
+    "TARGET_FILE": "00_Materials.xml",
+    "INITIAL_INDICATOR": "<Materials>",
+    "FINISH_INDICATOR": "</Materials>"
+  },
+  {
+    "TARGET_FILE": "00_Functions.xml",
+    "INITIAL_INDICATOR": "<Functions>",
+    "FINISH_INDICATOR": "</Functions>"
+  }
+]
